@@ -16,15 +16,6 @@
         "forms",
         "customerDelete",
         "Elements",
-        "txtaResults.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
         "inptCustomer.json"
       ]
     },
