@@ -14,36 +14,9 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "txtaResults.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "inptCustomer.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "btnDelete.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "lblMessage2.json"
+        "Button1.json"
       ]
     }
   ],
@@ -53,7 +26,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerDelete",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,7 +34,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "customerDelete.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
